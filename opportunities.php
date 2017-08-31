@@ -1,10 +1,10 @@
 <?php return array (
-  '{opportunities} List' => '',
-  'Create {opportunity}' => '',
-  'Edit {opportunity}' => '',
-  'Import {opportunities}' => '',
-  'Export {opportunities}' => '',
-  '{opportunity}:' => '',
-  'Opportunity Record Details' => '',
-  'Opportunities Stage' => '',
+  '{opportunities} List' => '{Möjligheter} Lista',
+  'Create {opportunity}' => 'Skapa {opportunity}',
+  'Edit {opportunity}' => 'Redigera {opportunity}',
+  'Import {opportunities}' => 'Importera {möjligheter}',
+  'Export {opportunities}' => 'Exportera {möjligheter}',
+  '{opportunity}:' => '{möjlighet}:',
+  'Opportunity Record Details' => 'Opportunity Record detaljer',
+  'Opportunities Stage' => 'Möjlighet Stage',
 );
